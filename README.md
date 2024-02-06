@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @duponte1177
 - 👀 I’m interested in transportation and community outreach
 - 🌱 I’m currently learning Python~
-- 📫 How to reach me elizabeth_dupont.com
+- 📫 How to reach me elizabethdupont.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Aggie '24
 
